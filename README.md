@@ -51,5 +51,3 @@ I'm passionnate about everything related to computers, programming and technolog
 ---
 
 ### You can take a look to my work down there! 👇 (More repos to come 👀)
-<p style="display: none">Hey you! If you see this, what were you looking for???</p>
-<p style="display: none">🦊🐾</p>
